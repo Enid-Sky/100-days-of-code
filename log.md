@@ -1,7 +1,7 @@
 # 100 Days Of Code  - Log :computer:
 
 
-### Day 1: May 6th, Wednesday
+###  :calendar:Day 1: May 6th, Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -12,7 +12,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### :calendar: Day 0: May 5th, Tuesday
+### :calendar:Day 0: May 5th, Tuesday
 ##### <br>
 
 **Until now**: I've been coding just about everyday for sometime now, so I'm joining this challenge to keep track of my progress, consistently commit my projects to GitHub and be part of this awesome community :smile:.  
