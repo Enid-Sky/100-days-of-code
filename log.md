@@ -3,20 +3,21 @@
 ### :calendar: Day 0: May 5th, 2020 
 ##### <br>
 
-**Until now**: I've been coding just about everyday for sometime now, so I'm joining this challenge to keep track of my progress, commit projects and be part of this awesome community :smile:.  
+**Until now**: I've been coding just about everyday for sometime now, so I'm joining this challenge to keep track of my progress, consistently commit my projects to GitHub and be part of this awesome community :smile:.  
 <br>
 **Completed thus far...**
 <p>:arrow_right:HackBright Academy beginner Python course</p>
 <p>:arrow_right:Udacity's beginner Javascript course</p>
 <p>:arrow_right:Hackreactor's begginer to intermediate Javascript bootcamp</p>
 <p>:arrow_right:Currently working on Udacity's front end developer course</p>
-<p>:arrow_right:Personal Blog Project <a href='https://github.com/Enid-Sky/blogWebsite'>HERE</a>.
+<p>:arrow_right:Personal Blog Project <a href='https://github.com/Enid-Sky/blogWebsite'>HERE</a>.</p>
+<p>:arrow_right:Wedding Site Landing Page Project <a href='https://github.com/Enid-Sky/LandingPageWeddingSite'>HERE</a></p>
   
 <br>
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [My App](https://github.com/Enid-Sky/LandingPageWeddingSite)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
