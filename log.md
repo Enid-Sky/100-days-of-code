@@ -12,6 +12,7 @@
 <p>:arrow_right:Currently working on Udacity's front end developer course</p>
 <p>:arrow_right:Personal Blog Project <a href='https://github.com/Enid-Sky/blogWebsite'>HERE</a>.</p>
 <p>:arrow_right:Wedding Site Landing Page Project <a href='https://github.com/Enid-Sky/LandingPageWeddingSite'>HERE</a></p>
+**Link to work:** [Wedding Site Landing Page Project](https://github.com/Enid-Sky/LandingPageWeddingSite)
   
 <br>
 
