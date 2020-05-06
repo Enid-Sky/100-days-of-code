@@ -3,12 +3,13 @@
 ### :calendar: Day 0: May 5th, 2020 
 ##### <br>
 
-**Progress until now**: I've been coding just about everyday now, and I'm joining this challenge to keep me accountable so that I can reach my goals, sooner than later.
+**Progress until now**: I've been coding just about everyday now, and I'm joining this challenge so that I can log my progress.  
 **Completed**
 <p>HackBright Academy beginner Python course</p>
 <p>Udacity's beginner Javascript course</p>
 <p>Hackreactor's begginer to intermediate Javascript bootcamp</p>
 <p>Currently working on Udacity's front end developer course</p>
+<br>
 
 
 
