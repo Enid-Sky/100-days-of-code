@@ -8,10 +8,8 @@
 **Thoughts:** Surprisingly easier that I thought it would be. However, there is much more ahead. 
 <br>
 
-
-### :calendar:Day 0: May 5th, Tuesday
 ##### <br>
-
+### :calendar:Day 0: May 5th, Tuesday
 **Until now**: I've been coding everyday for sometime now, so I'm joining this challenge to help me keep track of my progress :smile:.  
 <br>
 **Completed thus far...**
