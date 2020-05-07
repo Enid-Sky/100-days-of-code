@@ -3,9 +3,9 @@
 
 ###  :calendar:Day 1: May 6th, Wednesday
 
-**Today's Progress**: I read documentation on Node and Express. Then I setup my first local server by installing node, express, body-parser and cors. I also learned about the file heirarchy. 
+**Today's Progress:**: I read documentation on Node and Express. Then I setup my first local server by installing node, express, body-parser and cors. I also learned about the file heirarchy. 
 
-**Thoughts** Surprisingly easier that I thought it would be. However, there is much more ahead. 
+**Thoughts:** Surprisingly easier that I thought it would be. However, there is much more ahead. 
 <br>
 
 
