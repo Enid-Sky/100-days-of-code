@@ -3,13 +3,10 @@
 
 ###  :calendar:Day 1: May 6th, Wednesday
 
-**Today's Progress**: I read documentation on Node and Express. Then I setup my first local server by installing node, express, body-parser(
+**Today's Progress**: I read documentation on Node and Express. Then I setup my first local server by installing node, express, body-parser and cors. I also learned about the file heirarchy. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** Surprisingly easier that I thought it would be. However, there is much more ahead. 
+<br>
 
 
 ### :calendar:Day 0: May 5th, Tuesday
