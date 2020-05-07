@@ -15,7 +15,7 @@
 **Until now**: I've been coding everyday for sometime now, so I'm joining this challenge to help me keep track of my progress :smile:.  
 <br>
 **Completed thus far...**
-<p>:arrow_right :HackBright Academy beginner Python course</p>
+<p>:arrow_right: HackBright Academy beginner Python course</p>
 <p>:arrow_right: Udacity's beginner Javascript course</p>
 <p>:arrow_right: Hackreactor's begginer to intermediate Javascript bootcamp</p>
 <p>:arrow_right: Currently working on Udacity's front end developer course</p>
