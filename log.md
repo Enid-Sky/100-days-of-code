@@ -1,5 +1,20 @@
 # 100 Days Of Code  - Log :computer:
 
+###  :calendar:Day 2: May 7th, Thursday
+
+**Today's Progress:** 
+<p>:arrow_right: I started the morning with Javascript practice problems on <a href='https://www.freecodecamp.org/'>freeCodeCamp.org</a>.</p>
+<p>:arrow_right: Watched a follow along video by <a href='https://www.youtube.com/watch?v=pKd0Rpw7O48'>Programming With Mosh</a> on RESTful API's.</p>
+<p>Continued working through Client & Server side lessons on Udacity. Should be ready to create my own weather app, sometime next week. </p>
+<img src='images/'' alt='image of local server post route'>
+
+
+**Thoughts:** I need to continue working on javascript so that it stays fresh in my mind. So happy to have found extra resources regarding Node Express.  
+<br>
+
+##### <br>
+
+
 
 ###  :calendar:Day 1: May 6th, Wednesday
 
