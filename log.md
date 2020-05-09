@@ -1,15 +1,31 @@
 # 100 Days Of Code  - Log :computer:
 
+###  :calendar:Day 3: May 8th, TGIF
+
+**Today's Progress:** 
+<p>:arrow_right: I started the morning with Javascript practice problems and refresher on flexbox on <a href='https://www.freecodecamp.org/'>freeCodeCamp.org</a>.</p>
+
+<p>Continued working through Client & Server side lessons on Udacity. 
+
+**Thoughts:** 
+<p>:thought_balloon: Still waiting to hear back from my mentor about post routes before moving on to Asynchronous JavaScript with the Fetch API and more about Web APIs.</p>
+<br>
+
+##### <br>
+
+
 ###  :calendar:Day 2: May 7th, Thursday
 
 **Today's Progress:** 
 <p>:arrow_right: I started the morning with Javascript practice problems on <a href='https://www.freecodecamp.org/'>freeCodeCamp.org</a>.</p>
 <p>:arrow_right: Watched a follow along video by <a href='https://www.youtube.com/watch?v=pKd0Rpw7O48'>Programming With Mosh</a> on RESTful API's.</p>
-<p>Continued working through Client & Server side lessons on Udacity. Should be ready to create my own weather app, sometime next week. </p>
+<p>Continued working through Client & Server side lessons on Udacity. Should be ready to create my own weather app, sometime next week. I have a few questions for my mentor related to the console data on the terminal and why it's not displaying properly. Should hear back soon and fix. </p>
 <img src='images/server.JPG' alt='image of local server post route'>
 
 
-**Thoughts:** I need to continue working on javascript so that it stays fresh in my mind. So happy to have found extra resources regarding Node Express.  
+**Thoughts:** 
+
+<p>I need to continue working on javascript so that it stays fresh in my mind. So happy to have found extra resources regarding Node Express. </p>
 <br>
 
 ##### <br>
