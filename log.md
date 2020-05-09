@@ -9,6 +9,10 @@
 
 **Thoughts:** 
 <p>:thought_balloon: Still waiting to hear back from my mentor about post routes before moving on to Asynchronous JavaScript with the Fetch API and more about Web APIs.</p>
+
+**Articles to keep in mind:** 
+:bookmark: <a href='https://link.medium.com/ADBhCNtwj6'>Quick Git setup</a>
+:bookmark: <a href='https://dev.to/caroso1222/the-ultimate-8-bullet-checklist-to-ace-the-full-stack-interview-project-323m'>The Ultimate 8-bullet checklist to ace the Full Stack Interview Project</a>
 <br>
 
 ##### <br>
