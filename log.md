@@ -6,7 +6,7 @@
 <p>:arrow_right: I started the morning with Javascript practice problems on <a href='https://www.freecodecamp.org/'>freeCodeCamp.org</a>.</p>
 <p>:arrow_right: Watched a follow along video by <a href='https://www.youtube.com/watch?v=pKd0Rpw7O48'>Programming With Mosh</a> on RESTful API's.</p>
 <p>Continued working through Client & Server side lessons on Udacity. Should be ready to create my own weather app, sometime next week. </p>
-<img src='images/'' alt='image of local server post route'>
+<img src='images/server.jpg' alt='image of local server post route'>
 
 
 **Thoughts:** I need to continue working on javascript so that it stays fresh in my mind. So happy to have found extra resources regarding Node Express.  
@@ -18,7 +18,8 @@
 
 ###  :calendar:Day 1: May 6th, Wednesday
 
-**Today's Progress:** I read documentation on Node and Express. Then I setup my first local server by installing node, express, body-parser and cors. I also learned about the file heirarchy. 
+**Today's Progress:** 
+<p>:right_arrow:I read documentation on Node and Express. Then I setup my first local server by installing node, express, body-parser and cors. I also learned about the file heirarchy. <p>
 
 **Thoughts:** Surprisingly easier that I thought it would be. However, there is much more ahead. 
 <br>
