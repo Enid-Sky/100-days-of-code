@@ -1,11 +1,64 @@
 # 100 Days Of Code  - Log :computer:
 
+###  :calendar:Day 8: May 12th, Wednesday
+
+**Today's Progress:** 
+<p>:arrow_right:  </p>
+<p>:arrow_right:  </p>
+
+
+**Thoughts:** 
+<p>:thought_balloon: </p>
+
+
+**Articles to keep in mind:** 
+<p>:bookmark: </p>
+<p>:bookmark: </p>
+<p>:bookmark: </p>
+<br>
+
+
+###  :calendar:Day 5-7: May 12th, 2020
+
+**Today's Progress:** 
+<p>:arrow_right: Working on putting together a simple app that let's you add the name of your favorite animal, and a fact. Then returns an array of facts. Using a fake API, basically to understand functionality. </p>
+
+
+**Articles to keep in mind:** 
+<p>:bookmark: <a href='https://www.frontendmentor.io/resources'>Frontendmentor FREE resources</a></p>
+<p>:bookmark: <a href='https://expressjs.com/en/4x/api.html#app'>EXPRESS API references</a></p>
+
+<br>
+
+##### <br>
+
+###  :calendar:Day 4: May 9th, Saturday
+
+**Today's Progress:** 
+<p>:arrow_right: Continued working through Client & Server side lessons on Udacity. </p>
+<p>:arrow_right: Practiced Async JavaScript with promises. </p>
+
+
+**Thoughts:** 
+<p>:thought_balloon:  I'm hoping to put the async JavaScript I learned today into practice when I build my next project (A Weather App). </p>
+<p>:thought_balloon:  Heard back from my mentor today, my GET and POST routes are correct but I was pointing to the wrong folder. Will watch that for next time. </p>
+
+**Articles to keep in mind:** 
+<p>:bookmark: <a href='https://websitesetup.org/javascript-cheat-sheet/'>JavaScript Cheat Sheet</a></p>
+<p>:bookmark: <a href='https://websitesetup.org/html5-cheat-sheet/'>HTML Cheat Sheet</a></p>
+<p>:bookmark: <a href='https://websitesetup.org/css3-cheat-sheet/'>CSS Cheat Sheet</a></p>
+<br>
+
+##### <br>
+
+
+
 ###  :calendar:Day 3: May 8th, TGIF
 
 **Today's Progress:** 
 <p>:arrow_right: I started the morning with Javascript practice problems and refresher on flexbox on <a href='https://www.freecodecamp.org/'>freeCodeCamp.org</a>.</p>
 
-<p>Continued working through Client & Server side lessons on Udacity. 
+<p>Continued working through Client & Server side lessons on Udacity. </p>
 
 **Thoughts:** :thought_balloon:
 <p>Still waiting to hear back from my mentor about post routes before moving on to Asynchronous JavaScript with the Fetch API and more about Web APIs.</p>
