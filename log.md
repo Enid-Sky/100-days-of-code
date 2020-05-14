@@ -3,18 +3,15 @@
 ###  :calendar:Day 8: May 12th, Wednesday
 
 **Today's Progress:** 
-<p>:arrow_right:  </p>
-<p>:arrow_right:  </p>
+<p>:arrow_right: Spent the day finishing up my local server test site using NodeJS, Express, HTML, CSS, and JavaScript. The main goal was to set up GET and POST routes and to understand the way an API works in the client-server model. I set up a test API on my server. So the information is coming from the object I set up. The user can type in their favorite animal fact and the the data will be pushed to the allAnimalData object I set up. Then the API data and user data is displayed on the screen. I addes some very simple css to make it a little more visually appealing. </p>
 
+<p>:star2: Link to: <a href='https://github.com/Enid-Sky/ServerSiteTest2'>SERVER PROJECT</a>.</p>
+
+                   
 
 **Thoughts:** 
-<p>:thought_balloon: </p>
+<p>:thought_balloon: The server project was great practice. Next I need to build a project using a real API. The weather app is up next. </p>
 
-
-**Articles to keep in mind:** 
-<p>:bookmark: </p>
-<p>:bookmark: </p>
-<p>:bookmark: </p>
 <br>
 
 
